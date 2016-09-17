@@ -1,0 +1,86 @@
+.fix-dimensions{
+	height:40px;
+	width:90%;
+}
+.md-col-1{
+	width: 8.3333333333%;
+}
+.md-col-2{
+	width: 16.666666667%;
+}
+.md-col-3{
+	width: 25%;
+}
+.md-col-4{
+	width: 33.333333333%;
+}
+.md-col-5{
+	width: 41.666666667%;
+}
+.md-col-6{
+	width: 45%;
+}
+.md-col-7{
+	width: 58.333333333%;
+}
+.md-col-8{
+	width: 66.666666666%
+}
+.md-col-9{
+	width: 75%;
+}
+.md-col-10{
+	width: 83.333333333%;
+}
+.md-col-11{
+	width: 91.666666667%;
+}
+.md-col-12{
+	width: 100%;
+}
+.center{
+	text-align: center;
+}
+.md-col-4 h1{
+	font-size: 20px;
+}
+.hover-mouse{
+	cursor: pointer;
+}
+.no-padding{
+	padding: 0px;
+}
+.no-padding-left{
+	padding-left: 0px;
+}
+.no-padding-right{
+	padding-right: 0px;
+}
+.no-padding-top{
+	padding-top: 0px;
+}
+.no-padding-bottom{
+	padding-bottom: 0px;
+}
+.no-margin{
+	margin: 0px;
+}
+.no-margin-left{
+	margin-left: 0px;
+}
+.no-margin-right{
+	margin-right: 0px;
+}
+.no-margin-top{
+	margin-top: 0px;
+}
+.no-margin-bottom{
+	margin-bottom: 0px;
+}
+.searchbox {
+    border:1px solid #456879;
+    border-radius:6px;
+    height: 22px;
+    width: 200p;
+    margin-top: 5px;
+}
